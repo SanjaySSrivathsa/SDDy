@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    font-family:Verdana, Geneva, sans-serif;
+    font-size: 1.3em;
+}
+h1{
+    font-size: 6rem;
+    margin: 50px auto 0 auto;
+   
+   font-family: 'Sacramento', cursive;
+
+}
+h3{
+    
+    font-family: 'Itim', cursive;
+    font-size: 2.5rem;
+}
+.top{
+    padding-top: 100px;;
+    text-align: center;
+    background-color: #B9F3FC;
+    
+}
+.middle-container{
+    text-align: center;
+
+}
+.bottom-container{
+    text-align: center;
+}
+.cb{
+    position: absolute;
+    left:400px;
+}
+.ct{
+    position: relative;
+    left:250px;
+}
+p{
+    font-family: 'Itim', cursive;
+}
